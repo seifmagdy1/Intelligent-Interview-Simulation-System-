@@ -63,4 +63,4 @@ The [diagrams](diagrams/) folder contains:
 
 This repository is prepared as a professional portfolio presentation for IISS, making the project easy to review by recruiters, academic evaluators, and technical collaborators.
 
-Maintained by [Serag Mahmoud](https://github.com/SeragMahmoud).
+
